@@ -1,6 +1,6 @@
 import genToken from "../config/token.js"
 import User from  "../models/userModel.js"
-import bcrypt, { hash } from "bcrypt"
+import bcrypt from "bcryptjs"
 
 
 //1.signUp Funcitionality
