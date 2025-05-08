@@ -1,5 +1,5 @@
 import  express from 'express'
-import isAuth from '../middlewares/isauth.js'
+import isAuth from '../middlewares/isAuth.js'
 import upload from '../middlewares/multer.js'
 import { addListing, deleteListing, findListing, getListing, ratingListing, search, updateListing } from '../controller/listingController.js'
 
