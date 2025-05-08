@@ -4,7 +4,7 @@ export const authDataContext = createContext()
 
 
 function AuthContext({children}){
-    let serverUrl = "http://localhost:5000"
+    let serverUrl = import.meta.env.VITE_ServerUrl
     const [loading, setLoading] = useState(false);
 
    let value={
