@@ -1,5 +1,5 @@
 import express from "express"
-import isAuth from "../middlewares/isauth.js"
+import isAuth from "../middlewares/isAuth.js"
 import { cancelBooking, createBooking } from "../controller/bookingController.js"
 
 let bookingRouter = express.Router()
