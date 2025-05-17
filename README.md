@@ -4,7 +4,6 @@ Welcome to the **Airbnb Clone**, a fully functional real-world full-stack web ap
 
 
 ![Screenshot 2025-05-10 172437](https://github.com/user-attachments/assets/a56631a8-6627-4dfb-b3e7-52e9694dfb06)
-![Screenshot 2025-05-08 174538](https://github.com/user-attachments/assets/12fa68d0-cf77-4866-8618-22cff1a2d9c8)
 
 
 ---
@@ -22,9 +21,16 @@ Welcome to the **Airbnb Clone**, a fully functional real-world full-stack web ap
 
 ## 📸 Screenshots
 
-| Signup Page | Listing Page | Booking Page |
-|-------------|--------------|--------------|
-| ![Signup](./screenshots/signup.png) | ![Listing](./screenshots/listing.png) | ![Booking](./screenshots/booking.png) |
+![Screenshot 2025-05-17 185611](https://github.com/user-attachments/assets/813580fe-0c77-4156-8173-a7908386c00a)
+![Screenshot 2025-05-17 185602](https://github.com/user-attachments/assets/61f98dde-5948-4fce-bd03-91a0111e415a)
+![Screenshot 2025-05-17 185527](https://github.com/user-attachments/assets/c0f30e59-4143-4ea7-8cf1-7800ce33ddef)
+![Screenshot 2025-05-17 185708](https://github.com/user-attachments/assets/269de140-a375-4c41-9b48-a6e373663057)
+![Screenshot 2025-05-17 185804](https://github.com/user-attachments/assets/c4a5a129-bdd7-4b8f-ae54-9eba161abdd6)
+
+
+
+
+
 
 ---
 
