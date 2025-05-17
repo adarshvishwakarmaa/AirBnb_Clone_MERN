@@ -43,13 +43,13 @@ Welcome to the **Airbnb Clone**, a fully functional real-world full-stack web ap
 
 ```bash
 Airbnb-Clone/
-├── client/                 # React frontend
+├── fronted/                 # React frontend
 │   └── src/
 │       ├── components/
 │       ├── pages/
 │       ├── App.jsx
 │       └── main.jsx
-├── server/                 # Node.js backend
+├── backend/                 # Node.js backend
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
