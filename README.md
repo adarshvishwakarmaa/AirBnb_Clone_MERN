@@ -21,6 +21,21 @@ Welcome to the **Airbnb Clone**, a fully functional real-world full-stack web ap
 
 ## 📸 Screenshots
 
+
+
+## 🖼️ Project Screenshots
+
+| Login Page | Signup Page |
+|------------|-------------|
+| ![Signup](https://github.com/user-attachments/assets/813580fe-0c77-4156-8173-a7908386c00a) | ![Login](https://github.com/user-attachments/assets/61f98dde-5948-4fce-bd03-91a0111e415a) |
+
+| Add Listing Page | Listings Overview | Booking Page |
+|------------------|-------------------|---------------|
+| ![Add Listing](https://github.com/user-attachments/assets/c0f30e59-4143-4ea7-8cf1-7800ce33ddef) | ![Listings](https://github.com/user-attachments/assets/269de140-a375-4c41-9b48-a6e373663057) | ![Booking](https://github.com/user-attachments/assets/c4a5a129-bdd7-4b8f-ae54-9eba161abdd6) |
+
+---
+
+
 ![Screenshot 2025-05-17 185611](https://github.com/user-attachments/assets/813580fe-0c77-4156-8173-a7908386c00a)
 ![Screenshot 2025-05-17 185602](https://github.com/user-attachments/assets/61f98dde-5948-4fce-bd03-91a0111e415a)
 ![Screenshot 2025-05-17 185527](https://github.com/user-attachments/assets/c0f30e59-4143-4ea7-8cf1-7800ce33ddef)
